@@ -1,0 +1,2 @@
+include:
+  - work.base.pkgs
