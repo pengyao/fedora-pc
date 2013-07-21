@@ -16,3 +16,9 @@ pip:
     - name: python-pip
     - order: 2
     
+wqy-fonts:
+  pkg.installed:
+    - pkgs:
+      - wqy-bitmap-fonts
+      - wqy-unibit-fonts
+      - wqy-microhei-fonts
