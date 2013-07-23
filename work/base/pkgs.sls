@@ -7,4 +7,9 @@ work-pkgs:
       - nmap
       - git
       - tcpdump
+      - python-virtualenv
+
+
+
+
 
