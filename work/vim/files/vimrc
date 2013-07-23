@@ -1,0 +1,7 @@
+set nocompatible " 关闭 vi 兼容模式
+syntax on " 自动语法高亮
+set tabstop=4 " 设定 tab 长度为 4
+set nobackup " 覆盖文件时不备份
+set ignorecase smartcase " 搜索时忽略大小写，但在有一个或以上大写字母时仍保持对大小写敏感
+set hlsearch " 搜索时高亮显示被找到的文本
+set statusline=\ %<%F[%1*%M%*%n%R%H]%=\ %y\ %0(%{&fileformat}\ %{&encoding}\ %c:%l/%L%) " 设置在状态行显示的信息
