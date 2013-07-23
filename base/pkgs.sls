@@ -1,6 +1,9 @@
 include:
   - base.fastestmirror
  
+policycoreutils-devel:
+  pkg.installed:
+    - order: 2
 java:
   pkg.installed:
     - pkgs:
