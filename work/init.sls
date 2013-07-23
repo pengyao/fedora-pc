@@ -7,3 +7,4 @@ include:
   - work.freemind
   - work.pac
   - work.pelican
+  - work.dropbox
