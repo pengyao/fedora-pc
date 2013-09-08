@@ -1,2 +1,5 @@
 thunderbird:
-  pkg.installed
+  pkg.installed:
+    - pkgs:
+      - thunderbird
+      - thunderbird-lightning 
