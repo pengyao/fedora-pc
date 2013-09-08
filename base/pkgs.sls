@@ -25,3 +25,6 @@ wqy-fonts:
       - wqy-bitmap-fonts
       - wqy-unibit-fonts
       - wqy-microhei-fonts
+
+unrar:
+  pkg.installed
