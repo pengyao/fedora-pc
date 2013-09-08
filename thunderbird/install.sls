@@ -1,0 +1,2 @@
+thunderbird:
+  pkg.installed
