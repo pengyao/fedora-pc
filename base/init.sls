@@ -3,3 +3,4 @@ include:
   - base.users
   - base.pkgs
   - base.rpmfusion
+  - base.infinality
