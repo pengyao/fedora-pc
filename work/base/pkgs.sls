@@ -8,6 +8,7 @@ work-pkgs:
       - git
       - tcpdump
       - python-virtualenv
+      - stardict
 
 
 
